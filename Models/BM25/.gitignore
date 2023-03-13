@@ -1,0 +1,15 @@
+# large/temporary folders
+exp_results/*
+__pycache__/
+logs/
+plots/
+
+# segment dictionary for corpuses
+data/corpus/*/segment_dictionary.sav
+
+data/*
+
+!data/README.md
+!data/auxiliary_scripts
+!exp_results/Images/
+!exp_results/README.md

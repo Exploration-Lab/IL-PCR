@@ -1,0 +1,7 @@
+{
+    "path_prior_cases": "./data/corpus/COLIEE2021/train/candidate",
+    "path_current_cases": "./data/corpus/COLIEE2021/train/query",
+    "true_labels_json": "./data/corpus/COLIEE2021/train/train.json",
+    "checkpoint": "./model_checkpoints/distilbert_finetuned/",
+    "top512": "True"
+}

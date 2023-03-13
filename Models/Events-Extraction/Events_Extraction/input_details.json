@@ -1,0 +1,7 @@
+{
+    "input_root": "../data",
+    "dataset": "ilpcr",
+    "split_type": "test",
+    "files_type": "query",
+    "output_root": "../data/ilpcr_processed"
+}

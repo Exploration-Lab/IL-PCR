@@ -1,0 +1,3 @@
+##########  Empty folders are created inside this data folder, for easier understanding of folder structure  #############
+
+Please refer to ReadMe while running the python scripts or Notebooks.

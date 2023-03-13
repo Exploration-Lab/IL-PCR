@@ -1,0 +1,12 @@
+{
+    "dataset": "ilpcr",
+    "split_type": "train",
+    "data_dir_path": "../data",
+    "query_segment_dictionary_path": "../data/ilpcr_processed/ilpcr/train/sent_data_train_ilpcr_query.sav",
+    "candidate_segment_dictionary_path": "../data/ilpcr_processed/ilpcr/train/sent_data_train_ilpcr_candidate.sav",
+    "segment_dictionary_path": "../data/segment_dictionary_train_line.sav",
+    "model_type": "bert",
+    "model_id": 156960,
+    "model_name": "bert-base-uncased",
+    "model_path": "../output/ilpcr/bert_base/156960/"
+}

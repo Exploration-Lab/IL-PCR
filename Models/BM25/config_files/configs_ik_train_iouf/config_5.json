@@ -1,0 +1,6 @@
+{
+    "path_prior_cases": "./data/corpus/ik_train_iouf/candidate",
+    "path_current_cases": "./data/corpus/ik_train_iouf/query",
+    "true_labels_json": "./data/corpus/ik_train/train.json",
+    "n_gram": 5
+}

@@ -1,0 +1,7 @@
+{
+    "dataset": "ilpcr",
+    "split_type": "test",
+    "output_dir": "../data/ilpcr_processed",
+    "seg_data_dir_path": "../data/ilpcr_processed",
+    "event_doc_line_text_dir_path": "../data/ilpcr_processed"
+}

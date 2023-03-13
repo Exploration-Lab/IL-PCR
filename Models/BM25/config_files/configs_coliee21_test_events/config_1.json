@@ -1,0 +1,6 @@
+{
+    "path_prior_cases" : "./data/corpus/COLIEE2021_test_events/candidate", 
+    "path_current_cases" : "./data/corpus/COLIEE2021_test_events/query", 
+    "true_labels_json" :  "./data/corpus/COLIEE2021/test/test.json", 
+    "n_gram" : 1
+}

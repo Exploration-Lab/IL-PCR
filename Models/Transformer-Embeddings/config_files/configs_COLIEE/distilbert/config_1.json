@@ -1,0 +1,7 @@
+{
+    "path_prior_cases": "./data/corpus/COLIEE2021/test/candidate",
+    "path_current_cases": "./data/corpus/COLIEE2021/test/query",
+    "true_labels_json": "./data/corpus/COLIEE2021/test/test.json",
+    "checkpoint": "distilbert-base-uncased",
+    "top512": "False"
+}
