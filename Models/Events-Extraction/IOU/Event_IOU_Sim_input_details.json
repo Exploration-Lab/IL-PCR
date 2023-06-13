@@ -1,0 +1,6 @@
+{
+    "dataset": "ilpcr",
+    "split_type": "test",
+    "query_segment_dictionary_path": "../data/ilpcr_processed/ilpcr/test/segment_dictionary_test_ilpcr_query.sav",
+    "candidate_segment_dictionary_path": "../data/ilpcr_processed/ilpcr/test/segment_dictionary_test_ilpcr_candidate.sav"
+}

@@ -1,0 +1,7 @@
+{
+    "path_prior_cases": "./data/corpus/ik_test/candidate",
+    "path_current_cases": "./data/corpus/ik_test/query",
+    "true_labels_json": "./data/corpus/ik_test/test.json",
+    "checkpoint": "./model_checkpoints/bert_finetuned/",
+    "top512": "False"
+}

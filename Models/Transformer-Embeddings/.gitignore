@@ -1,0 +1,16 @@
+# temporary folders and logs
+.vscode/
+__pycache__/
+logs/
+
+# model checkpoints
+model_checkpoints/
+
+# experiment results
+exp_results/*
+
+data/*
+
+!data/README.md
+!exp_results/Images/
+!exp_results/README.md
