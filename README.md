@@ -13,8 +13,8 @@ We make the following contributions:
 
 ## Models and Data 
 1. `Model Checkpoints` : The checkpoints for the finetuned bert and distilbert models mentioned in the paper are available for download at [here](https://1drv.ms/f/s!Ao1lGmmnesu6l7cSBRElaJIhVNzwxw?e=QqQy2S).
-2. `Data` : The Dataset is ONLY for research use and NOT for any commercial use. The IL-PCR dataset is available for free via [request](https://forms.gle/X4z3hfVpj3FDFhfaA). For the COLIEE'21 dataset please refer to [COLIEE-2021](https://sites.ualberta.ca/~rabelo/COLIEE2021/).
-3. Each algorithm in the `Models/` subdirectory uses the corpus stored in the local `data/` subdirectory. Please see the algorithm specific READMEs for an explanation of how to prepare the corpus for running with the codebase.
+2. `Data` : The Dataset is ONLY for research use and NOT for any commercial use. The dataset and leaderboard are available on [Hugging Face](https://huggingface.co/spaces/Exploration-Lab/IL-TUR-Leaderboard). For the COLIEE'21 dataset please refer to [COLIEE-2021](https://sites.ualberta.ca/~rabelo/COLIEE2021/).
+4. Each algorithm in the `Models/` subdirectory uses the corpus stored in the local `data/` subdirectory. Please see the algorithm specific READMEs for an explanation of how to prepare the corpus for running with the codebase.
 
 ## License
 
